@@ -47,19 +47,10 @@ Tools
 <p> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> </p>
 
 
-# 📊 GitHub Statistics
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=S-Khilar&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Khilar&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
 🔥 GitHub Streak
 <div align="center"> <img src="https://streak-stats.demolab.com?user=S-Khilar&theme=tokyonight&hide_border=true" /> </div>
 
-# 🏆 GitHub Trophies
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=S-Khilar&theme=flat&no-frame=true&margin-w=10" width="100%" />
-</div>
+
 
 # 📈 Contribution Activity
 <div align="center">
