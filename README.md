@@ -31,14 +31,6 @@ My interests lie at the intersection of:
 🧪 Genomics & NGS  
 📊 Data Science  
 
-- 🎓 MSc in **Bioinformatics** — Sambalpur University
-- 🔬 Industry experience through internship at **Biotecnika**
-- 🧠 Working with **Graph Neural Networks and Geometric Deep Learning**
-- 🧬 Interested in **Spatial Transcriptomics & Genomics**
-- 💊 Exploring **AI-driven Drug Discovery**
-- 🐍 Python-based computational biology and machine learning
-- 🚀 Interested in building practical **Bioinformatics + AI applications**
-
 ---
 
 # 🔬 Research & Projects
@@ -46,23 +38,26 @@ My interests lie at the intersection of:
 ## 🧠 Spatial GNN Analyzer
 
 ### AI-Powered Graph Neural Network Framework for Spatial Transcriptomics
-
 A research-oriented framework for analyzing **spatial transcriptomics data using Graph Neural Networks**.
-
 The system represents tissue spots as graph nodes and spatial relationships as graph edges to learn spatially informed representations.
 
 ### Key components
-
+<div align="left">
 - Quality control and preprocessing
 - Highly variable gene selection
-- PCA-based dimensionality reduction
+- PCA-based dimensionality reduction 
+</div>
+
+<div align="center">
 - Spatial graph construction
 - Graph Neural Network modeling
 - Spatial embedding generation
+</div>
+<div align="right">
 - Spatial domain identification
 - Leiden clustering
 - Spatial visualization
-- Quantitative evaluation using clustering and spatial metrics
+</div>
 
 ### Technologies
 
@@ -77,7 +72,6 @@ https://github.com/S-Khilar
 ## 🧬 Protein–Ligand Interaction Interpretation
 
 A Graph Neural Network framework for analyzing and interpreting **protein–ligand interactions** and molecular binding behavior.
-
 The project uses molecular graph representations and deep learning to model relationships between protein and ligand structures.
 
 ### Key components
@@ -107,8 +101,6 @@ https://github.com/S-Khilar/Graph-Neural-Networks-GNNs-for-Protein-Ligand-Intera
 Hands-on experience with a Linux-based **Next-Generation Sequencing analysis workflow**.
 
 ### Workflow
-
-```text
 FASTQ
   ↓
 Quality Control
@@ -267,4 +259,4 @@ working at the intersection of biology and artificial intelligence.
 
 ⭐ Thanks for visiting my profile!
 
-</div> ```
+</div>
