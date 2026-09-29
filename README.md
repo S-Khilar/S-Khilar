@@ -132,20 +132,7 @@ GATK
 VCF
   ↓
 Variant Annotation
-<!--
-**S-Khilar/S-Khilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-```
 
 *Tools*
 
@@ -270,7 +257,8 @@ I'm interested in connecting with researchers, bioinformaticians,
 computational biologists, AI/ML professionals and organizations
 working at the intersection of biology and artificial intelligence.
 
-<p align="center"> <a href="https://github.com/S-Khilar"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <!-- Replace YOUR_LINKEDIN_URL with your LinkedIn profile --> <a href="www.linkedin.com/in/subhasankar-khilar-b4888829b"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
+<p align="center"> <a href="https://github.com/S-Khilar"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/subhasankar-khilar-b4888829b/?isSelfProfile=true"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
 
 
 
