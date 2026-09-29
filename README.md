@@ -17,7 +17,6 @@
 
 ---
 
-## 🧬 About Me
 
 I'm a **Bioinformatics professional** with an MSc in Bioinformatics, passionate about applying **Artificial Intelligence, Machine Learning and Graph Neural Networks** to solve problems in computational biology.
 
@@ -33,166 +32,9 @@ My interests lie at the intersection of:
 
 ---
 
-# 🔬 Research & Projects
-
-## 🧠 Spatial GNN Analyzer
-
-### AI-Powered Graph Neural Network Framework for Spatial Transcriptomics
-A research-oriented framework for analyzing **spatial transcriptomics data using Graph Neural Networks**.
-The system represents tissue spots as graph nodes and spatial relationships as graph edges to learn spatially informed representations.
-
-### Key components
-<div align="left">
-  - Quality control and preprocessing.
-  - Highly variable gene selection.
-  - PCA-based dimensionality reduction. 
-</div>
-
-<div align="center">
-  - Spatial graph construction,
-  - Graph Neural Network modeling,
-  - Spatial embedding generation.
-</div>
-<div align="right">
-  - Spatial domain identification
-  - Leiden clustering
-  - Spatial visualization
-</div>
-
-### Technologies
-
-`Python` `PyTorch` `PyTorch Geometric` `Scanpy` `Squidpy`
-`Pandas` `NumPy` `Scikit-learn` `FastAPI` `React`
-
-🔗 **Repository:**  
-https://github.com/S-Khilar
-
----
-
-## 🧬 Protein–Ligand Interaction Interpretation
-
-A Graph Neural Network framework for analyzing and interpreting **protein–ligand interactions** and molecular binding behavior.
-The project uses molecular graph representations and deep learning to model relationships between protein and ligand structures.
-
-### Key components
-
-- Protein graph representation
-- Ligand molecular graphs
-- Molecular feature extraction
-- Protein–ligand interaction modeling
-- Binding affinity prediction
-- PDBBind dataset
-- Molecular preprocessing
-- Model training and evaluation
-- Interpretability analysis
-
-### Technologies
-
-`Python` `PyTorch` `PyTorch Geometric` `RDKit`
-`Biopython` `GNN` `PDBBind` `AutoDock Vina`
-
-🔗 **Repository:**  
-https://github.com/S-Khilar/Graph-Neural-Networks-GNNs-for-Protein-Ligand-Interaction-Inrerpretation
-
----
-
-## 🧪 NGS Analysis Pipeline
-
-Hands-on experience with a Linux-based **Next-Generation Sequencing analysis workflow**.
-
-### Workflow
-FASTQ
-  ↓
-Quality Control
-  ↓
-Fastp / FastQC
-  ↓
-MultiQC
-  ↓
-Reference Alignment
-  ↓
-BWA
-  ↓
-BAM Processing
-  ↓
-Samtools
-  ↓
-Variant Calling
-  ↓
-GATK
-  ↓
-VCF
-  ↓
-Variant Annotation
-
-
-*Tools*
-
-Linux FastQC MultiQC fastp
-BWA Samtools GATK
-FASTQ BAM VCF
-
-**🤖 AI / Machine Learning**
-
-I work with machine learning and deep learning approaches for biological and biomedical applications.
-
-*Machine Learning*
-Supervised Learning
-Unsupervised Learning
-Classification
-Regression
-Clustering
-Feature Engineering
-Model Evaluation
-
-*Deep Learning*
-Neural Networks
-Graph Neural Networks
-Graph Convolutional Networks
-Representation Learning
-Geometric Deep Learning
-
-*Libraries*
-Scikit-learn
-XGBoost
-PyTorch
-PyTorch Geometric
-
-**🧬 Bioinformatics Skills**
-*Genomics & NGS*
-FASTQ BAM VCF
-FastQC MultiQC BWA
-Samtools GATK
-
-*Computational Biology*
-Biopython
-Sequence Analysis
-Structural Bioinformatics
-Protein-Ligand Interaction
-PDB
-PDBBind
-
-*Drug Discovery*
-RDKit
-SMILES
-Molecular Descriptors
-QSAR
-Molecular Docking
-AutoDock Vina
-
-*Spatial Biology*
-Spatial Transcriptomics
-Scanpy
-Squidpy
-PCA
-Spatial Graphs
-Leiden Clustering
-Spatial Embeddings
-
-
 **💻 Technical Stack**
 Programming
-<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/> </p>
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> </p>
 AI / Machine Learning
 <p> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch_Geometric-3C2179?style=for-the-badge"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge"/> </p>
 Bioinformatics
@@ -205,28 +47,107 @@ Tools
 <p> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> </p>
 
 
-📊 GitHub Statistics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=S-Khilar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Khilar&layout=compact&theme=tokyonight&hide_border=true" /> </div>
+# 📊 GitHub Statistics
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=S-Khilar&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Khilar&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
 
 🔥 GitHub Streak
 <div align="center"> <img src="https://streak-stats.demolab.com?user=S-Khilar&theme=tokyonight&hide_border=true" /> </div>
 
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=S-Khilar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" /> </div>
+# 🏆 GitHub Trophies
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=S-Khilar&theme=flat&no-frame=true&margin-w=10" width="100%" />
+</div>
 
-📈 Contribution Activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=S-Khilar&theme=tokyo-night&hide_border=true" /> </div>
+# 📈 Contribution Activity
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=S-Khilar&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</div>
 
-**🚀 Current Focus**
-🧬 Spatial Transcriptomics
-        ↓
-🧠 Graph Neural Networks
-        ↓
-🤖 AI / Machine Learning
-        ↓
-🔬 Computational Biology
-        ↓
-💊 Drug Discovery & Genomics
+---
+
+
+
+# 🔬 Research & Projects
+
+## 🧠 Spatial GNN Analyzer
+
+### AI-Powered Graph Neural Network Framework for Spatial Transcriptomics
+A research-oriented framework for analyzing **spatial transcriptomics data using Graph Neural Networks**.
+The system represents tissue spots as graph nodes and spatial relationships as graph edges to learn spatially informed representations.
+
+### Key components
+*Quality control and pre-processing, PCA-based dimensionality reduction, Spatial graph construction,
+Graph Neural Network modelling, Leiden clustering, Spatial visualization*
+
+### Technologies
+
+`Python` `PyTorch` `PyTorch Geometric` `Scanpy` `Squidpy`
+`Pandas` `NumPy` `Scikit-learn` `FastAPI` `React`
+
+🔗 **Repository:**  
+https://github.com/S-Khilar
+🔗**Paper URL:**
+https://www.researchsquare.com/article/rs-10600213/v1
+---
+
+## 🧬 Protein–Ligand Interaction Interpretation
+
+A Graph Neural Network framework for analyzing and interpreting **protein–ligand interactions** and molecular binding behavior.
+The project uses molecular graph representations and deep learning to model relationships between protein and ligand structures.
+
+### Key components
+ *Molecular feature extraction, P–L interaction modeling, Binding affinity prediction,
+ Molecular preprocessing, Model training and evaluation, Interpretability analysis*
+
+### Technologies
+
+`Python` `PyTorch` `PyTorch Geometric` `RDKit`
+`Biopython` `GNN` `PDBBind` `AutoDock Vina`
+
+🔗 **Repository:**  
+https://github.com/S-Khilar/Graph-Neural-Networks-GNNs-for-Protein-Ligand-Interaction-Inrerpretation
+🔗 **Paper URL:**
+https://www.biorxiv.org/content/10.64898/2026.04.23.720519v1
+
+---
+
+## 🧪 NGS Analysis Pipeline
+
+Hands-on experience with a Linux-based **Next-Generation Sequencing analysis workflow**.
+
+### Workflow
+FASTQ -> Quality Control -> Fastp / FastQC -> MultiQC -> Reference Alignment -> BWA -> BAM Processing
+-> Samtools -> Variant Calling -> GATK -> VCF -> Variant Annotation
+
+
+*Tools*
+
+`Linux` `FastQC` `MultiQC` `fastp` `BWA`
+`Samtools` `GATK` `FASTQ` `BAM` `VCF`
+
+---
+
+
+#🤖 AI / Machine Learning**
+
+I work with machine learning and deep learning approaches for biological and biomedical applications.
+
+*Machine Learning*
+`Supervised Learning` `Unsupervised Learning` `Classification` `Regression`
+`Clustering` `Feature Engineering` `Model Evaluation`
+
+*Deep Learning*
+`Neural Networks` `Graph Neural Networks` `Graph Convolutional Networks`
+`Representation Learning` `Geometric Deep Learning`
+
+*Libraries*
+`Scikit-learn` `XGBoost` `PyTorch` `PyTorch` `Geometric`
+
+---
+
 
 **📚 Research Interests**
 🧬 Genomics
