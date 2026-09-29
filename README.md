@@ -43,20 +43,20 @@ The system represents tissue spots as graph nodes and spatial relationships as g
 
 ### Key components
 <div align="left">
-- Quality control and preprocessing
-- Highly variable gene selection
-- PCA-based dimensionality reduction 
+  - Quality control and preprocessing
+  - Highly variable gene selection
+  - PCA-based dimensionality reduction 
 </div>
 
 <div align="center">
-- Spatial graph construction
-- Graph Neural Network modeling
-- Spatial embedding generation
+  - Spatial graph construction
+  - Graph Neural Network modeling
+  - Spatial embedding generation
 </div>
 <div align="right">
-- Spatial domain identification
-- Leiden clustering
-- Spatial visualization
+  - Spatial domain identification
+  - Leiden clustering
+  - Spatial visualization
 </div>
 
 ### Technologies
