@@ -35,27 +35,60 @@ My interests lie at the intersection of:
 # 💻 Technical Stack 
 
 ## Programming
-<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 </p>
+
 ## AI / Machine Learning
-<p> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch_Geometric-3C2179?style=for-the-badge"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge"/> </p>
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch_Geometric-3C2179?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge"/>
+</p>
+
 ## Bioinformatics
-<p> <img src="https://img.shields.io/badge/Biopython-3776AB?style=for-the-badge"/> <img src="https://img.shields.io/badge/Scanpy-4C72B0?style=for-the-badge"/> <img src="https://img.shields.io/badge/Squidpy-8E44AD?style=for-the-badge"/> <img src="https://img.shields.io/badge/RDKit-2D6CA2?style=for-the-badge"/> </p>
+<p>
+  <img src="https://img.shields.io/badge/Biopython-3776AB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scanpy-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Squidpy-8E44AD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RDKit-2D6CA2?style=for-the-badge"/>
+</p>
+
 ## Data Science
-<p> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/> </p>
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+</p>
+
 ## Web / Backend
-<p> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> </p>
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
 ## Tools
-<p> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> </p>
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+
+---
 
 
 # 🔥 GitHub Streak
 <div align="center"> <img src="https://streak-stats.demolab.com?user=S-Khilar&theme=tokyonight&hide_border=true" /> </div>
 
 
-
 ---
-
 
 
 # 🔬 Research & Projects
@@ -75,11 +108,12 @@ Graph Neural Network modelling, Leiden clustering, Spatial visualization*
 `Python` `PyTorch` `PyTorch Geometric` `Scanpy` `Squidpy`
 `Pandas` `NumPy` `Scikit-learn` `FastAPI` `React`
 
-🔗 *Repository:*  
+*🔗 Repository:*  
 https://github.com/S-Khilar
 <br>
-🔗*Paper URL:*
+*🔗 Paper URL:*
 https://www.researchsquare.com/article/rs-10600213/v1
+
 ---
 
 ## 🧬 Protein–Ligand Interaction Interpretation
@@ -118,28 +152,30 @@ FASTQ -> Quality Control -> Fastp / FastQC -> MultiQC -> Reference Alignment -> 
 `Linux` `FastQC` `MultiQC` `fastp` `BWA`
 `Samtools` `GATK` `FASTQ` `BAM` `VCF`
 
+
 ---
 
 
-*🤖 AI / Machine Learning*
+## 🤖 AI / Machine Learning
 
 I work with machine learning and deep learning approaches for biological and biomedical applications.
 
-*Machine Learning*
+**Machine Learning**
 `Supervised Learning` `Unsupervised Learning` `Classification` `Regression`
 `Clustering` `Feature Engineering` `Model Evaluation`
 
-*Deep Learning*
+**Deep Learning**
 `Neural Networks` `Graph Neural Networks` `Graph Convolutional Networks`
 `Representation Learning` `Geometric Deep Learning`
 
-*Libraries*
+**Libraries**
 `Scikit-learn` `XGBoost` `PyTorch` `PyTorch` `Geometric`
+
 
 ---
 
 
-**📚 Research Interests**
+### 📚 Research Interests
 🧬 Genomics
 🧬 Spatial Transcriptomics
 🧠 Graph Neural Networks
@@ -147,11 +183,10 @@ I work with machine learning and deep learning approaches for biological and bio
 💊 Drug Discovery
 🧪 Structural Bioinformatics
 🧬 Computational Biology
-📊 Biomedical Data Science
+📊 Biological Data Science
 
 
-**📌 Featured Repositories**
-<div align="center"> <a href="https://github.com/S-Khilar/Graph-Neural-Networks-GNNs-for-Protein-Ligand-Interaction-Inrerpretation"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=S-Khilar&repo=Graph-Neural-Networks-GNNs-for-Protein-Ligand-Interaction-Inrerpretation&theme=tokyonight" /> </a> </div>
+---
 
 
 **🤝 Let's Connect**
