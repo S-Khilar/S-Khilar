@@ -32,30 +32,27 @@ My interests lie at the intersection of:
 
 ---
 
-**💻 Technical Stack**
-Programming
-<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> </p>
-AI / Machine Learning
+# 💻 Technical Stack 
+
+## Programming
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+</p>
+## AI / Machine Learning
 <p> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch_Geometric-3C2179?style=for-the-badge"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge"/> </p>
-Bioinformatics
+## Bioinformatics
 <p> <img src="https://img.shields.io/badge/Biopython-3776AB?style=for-the-badge"/> <img src="https://img.shields.io/badge/Scanpy-4C72B0?style=for-the-badge"/> <img src="https://img.shields.io/badge/Squidpy-8E44AD?style=for-the-badge"/> <img src="https://img.shields.io/badge/RDKit-2D6CA2?style=for-the-badge"/> </p>
-Data Science
+## Data Science
 <p> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/> </p>
-Web / Backend
+## Web / Backend
 <p> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> </p>
-Tools
+## Tools
 <p> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> </p>
 
 
-🔥 GitHub Streak
+# 🔥 GitHub Streak
 <div align="center"> <img src="https://streak-stats.demolab.com?user=S-Khilar&theme=tokyonight&hide_border=true" /> </div>
 
 
-
-# 📈 Contribution Activity
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=S-Khilar&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</div>
 
 ---
 
@@ -78,9 +75,10 @@ Graph Neural Network modelling, Leiden clustering, Spatial visualization*
 `Python` `PyTorch` `PyTorch Geometric` `Scanpy` `Squidpy`
 `Pandas` `NumPy` `Scikit-learn` `FastAPI` `React`
 
-🔗 **Repository:**  
+🔗 *Repository:*  
 https://github.com/S-Khilar
-🔗**Paper URL:**
+<br>
+🔗*Paper URL:*
 https://www.researchsquare.com/article/rs-10600213/v1
 ---
 
@@ -98,9 +96,10 @@ The project uses molecular graph representations and deep learning to model rela
 `Python` `PyTorch` `PyTorch Geometric` `RDKit`
 `Biopython` `GNN` `PDBBind` `AutoDock Vina`
 
-🔗 **Repository:**  
+🔗 *Repository:*  
 https://github.com/S-Khilar/Graph-Neural-Networks-GNNs-for-Protein-Ligand-Interaction-Inrerpretation
-🔗 **Paper URL:**
+<br>
+🔗 *Paper URL:*
 https://www.biorxiv.org/content/10.64898/2026.04.23.720519v1
 
 ---
@@ -122,7 +121,7 @@ FASTQ -> Quality Control -> Fastp / FastQC -> MultiQC -> Reference Alignment -> 
 ---
 
 
-#🤖 AI / Machine Learning**
+*🤖 AI / Machine Learning*
 
 I work with machine learning and deep learning approaches for biological and biomedical applications.
 
